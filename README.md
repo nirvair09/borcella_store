@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+I was using a US test card for transactions in INR, which led to the error mentioned in the question. The correct approach is to use an Indian test card specifically designed for transactions in INR.
+
+For testing purposes in INR, it's recommended to use the following Indian Test Visa Card:
+
+Indian Test Visa Card: 4000 0035 6000 0008
