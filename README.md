@@ -95,3 +95,4 @@ For testing purposes in INR, it's recommended to use the following Indian Test V
 
 Check out the live version of the project: [Borcella Store](https://borcella-store-chandradeep-roys-projects.vercel.app)
 
+Github code for admin:-https://github.com/nirvair09/borcella_admin.git
