@@ -40,7 +40,7 @@ const Orders = async () => {
             <div className="flex gap-20 max-md:flex-col max-md:gap-3">
               <p className="text-base-bold">Order ID: {order._id}</p>
               <p className="text-base-bold">
-                Total Amount: ${order.totalAmount}
+                Total Amount: ₹{order.totalAmount}
               </p>
             </div>
 
